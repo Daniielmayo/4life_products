@@ -1,0 +1,7 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "java.project.sourcePaths": [
+    "components",
+    "app/(publicRoutes)/products"
+  ]
+}

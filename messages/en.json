@@ -1,0 +1,90 @@
+{
+  "Home": {
+    "benefits": {
+      "benefits1": {
+        "title1": "Free shipping",
+        "title2": " for purchases over $100"
+      },
+      "benefits2": { "title": "Purchase guarantee" },
+      "benefits3": { "title": "Secure purchase" },
+      "benefits4": { "title": "Support" }
+    },
+    "flagshipProductHome": {
+      "title": "4Life Transfer Factor",
+      "decription": "4Life’s best-selling immune system product! 4Life® Transfer Factor Plus® Tri-Factor® Formula combines the power of Tri-Factor® Formula with a proprietary super-mushroom blend (shiitake, maitake, agaricus, and cordyceps) and zinc to help your immune system more effectively recognize, respond to, and remember potential health threats",
+      "button": "Buy"
+    },
+    "SectionProductsHome": {
+      "title": "Featured Products",
+      "button": "See more products"
+    },
+    "buyingIsEasy": {
+      "title": "Buying is easy",
+      "steps": {
+        "step1": {
+          "title": "1.Select the product you want:",
+          "description1": "Browse our products in our online store. Use the search bar in the section",
+          "description1link": "products",
+          "description1end": "to find what you are looking for. Read the detailed descriptions and review the images to make sure the product is right for you and click on the product."
+        },
+        "step2": {
+          "title": "2.Add it to your cart:",
+          "description": "Click the 'Add to cart' Can continue shopping and adding more products to your cart before  proceed to purchase. "
+        },
+        "step3": {
+          "title": "3.Make your purchase:",
+          "description": "Enter your shipping and payment information. Choose from the different payment options available. Once you have completed your order, you will receive a confirmation email with the details of your purchase."
+        },
+        "step4": {
+          "title": "4.Recibe tu compra:",
+          "description": "That's all! Your order will be processed and shipped as soon as possible."
+        }
+      }
+    },
+    "aboutMe": {
+      "title": "About me",
+      "description": "Hello, I'm Virginia, an authorized 4Life distributor. I am committed to the mission of improving people's overall health and well-being. I am passionate about helping my clients achieve a better state of health through scientifically developed and highest quality products."
+    },
+    "contactMe": {
+      "title": "Contact me!",
+      "descriptionBold": "Do you want to improve your well-being? ",
+      "description": "explore a new income opportunity and achieve your financial freedom. Write to me to give you all the information.",
+      "button": "WhatsApp"
+    }
+  },
+  "Products": {
+    "title": "Products",
+    "productsNotFound":"Products not found"
+  },
+  "Search": {
+    "title": "Search ..."
+  },
+  "Card": {
+    "title1": "See more",
+    "title2": "See Less"
+  },
+  "Header": {
+    "items": {
+      "home": "Home",
+      "products": "Products",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "client": {
+      "title": "Independent affiliate"
+    }
+  },
+  "Footer": {
+    "info": {
+      "page": "4LIFE official website",
+      "description": "This page is created to give greater visibility to 4LIFE products as an authorized distributor of the brand."
+    },
+    "items": {
+      "home": "Home",
+      "products": "Products",
+      "buy": "Buy",
+      "contact": "Contact"
+    },
+    "button": "Login"
+  }
+}

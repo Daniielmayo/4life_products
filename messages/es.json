@@ -1,0 +1,89 @@
+{
+  "Home": {
+    "benefits": {
+      "benefits1": {
+        "title1": "Envío Gratis",
+        "title2": "por compras superiores a $100"
+      },
+      "benefits2": { "title": "Garantía de la compra" },
+      "benefits3": { "title": "Compra segura" },
+      "benefits4": { "title": "Soporte" }
+    },
+
+    "flagshipProductHome": {
+      "title": "Transfer Factor ",
+      "decription": "Es la fórmula premium y más vendida de 4Life, diseñada para brindar un apoyo óptimo al sistema inmunológico. Esta potente fórmula combina la reconocida Tri-Factor® Formula con una mezcla patentada de súper hongos (shiitake, maitake, agaricus y cordyceps) y zinc, ayudando a que tu sistema inmunológico reconozca, responda y recuerde eficazmente las posibles amenazas a la salud.",
+      "button": "Comprar"
+    },
+    "SectionProductsHome": {
+      "title": "Productos destacados",
+      "button": "Ver más productos"
+    },
+    "buyingIsEasy": {
+      "title": "Comprar es facíl",
+      "steps": {
+        "step1": {
+          "title": "1.Selecciona el producto que deseas:",
+          "description1": "Navega por nuestros productos de nuestra tienda online. Utiliza la barra de búsqueda en la sección de",
+          "description1link": "productos",
+          "description1end": "para encontrar lo que buscas. Lee las descripciones detalladas y revisa las imágenes para asegurarte de que el producto es el adecuado para ti y haz click en el producto."
+        },
+        "step2": {
+          "title": "2.Agrégala a tu carrito:",
+          "description": "Haz clic en el botón 'Agregar al carrito' Puedes seguir comprando y agregando más productos a tu carrito antes de proceder a la compra. "
+        },
+        "step3": {
+          "title": "3.Realiza tu compra:",
+          "description": "Ingresa tu información de envío y pago. Elige entre las diferentes opciones de pago disponibles. Una vez que hayas completado tu pedido, recibirás un correo electrónico de confirmación con los detalles de tu compra."
+        },
+        "step4": {
+          "title": "4.Recibe tu compra:",
+          "description": "¡Eso es todo! Tu pedido será procesado y enviado lo antes posible."
+        }
+      }
+    },
+    "aboutMe": {
+      "title": "Acerca de mí",
+      "description": "Hola, soy Virginia, distribuidora autorizada de 4Life. Estoy comprometida con la misión de mejorar la salud y el bienestar general de las personas. Me apasiona ayudar a mis clientes a alcanzar un mejor estado de salud mediante productos científicamente desarrollados y de la más alta calidad."
+    },
+    "contactMe": {
+      "title": "¡Contáctame!",
+      "descriptionBold": "¿Quieres mejorar tu bienestar? ",
+      "description": "explora una nueva oportunidad de ingresos y alcanzar tu libertad financiera. Escríbeme para darte toda la información.",
+      "button": "Escríbeme"
+    }
+  },
+  "Products": {
+    "title": "Productos",
+    "productsNotFound": "No se encontraron productos"
+  },
+  "Search": { "title": "Buscar ..." },
+  "Card": {
+    "title1": "Ver más",
+    "title2": "Ver menos"
+  },
+  "Header": {
+    "items": {
+      "home": "Inicio",
+      "products": "Productos",
+      "about": "Acerca de mí",
+      "contact": "Contacto"
+    },
+    "client": {
+      "title": "Afiliado independiente"
+    }
+  },
+  "Footer": {
+    "info": {
+      "page": "Página oficial 4LIFE",
+      "description": "Esta página esta creada para dar mayor visibilidad a los productos de 4LIFE como distribuidor autorizado de la marca."
+    },
+    "items": {
+      "home": "Inicio",
+      "products": "Productos",
+      "buy": "¿Como comprar?",
+      "contact": "Contacto"
+    },
+    "button": "Iniciar sesión"
+  }
+}
